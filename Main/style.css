@@ -1,0 +1,130 @@
+.navbar .form-control {
+    background-color: rgb(223, 223, 208);
+    border-color: rgb(20, 21, 21);
+    border-width: 3px;
+  }
+  .navbar .form-control::placeholder {
+    color: #198754;
+  }
+  .navbar .btn-outline-dark {
+    background-color: rgb(223, 223, 208);
+    border-width: 3px;
+  }
+  .bi-recycle {
+    color: rgb(0, 0, 0);
+    inline-size: 25px;
+    block-size: 25px;
+    margin-inline-start: 45px;
+  }
+  .iconlar {
+   display: flex;
+   margin: auto;
+   inline-size: 13%
+  }
+  .bi-twitter {
+    margin-inline-end: 20px;
+    margin-inline-start: 20px;
+  }
+  .bi-whatsapp {
+    margin-inline-end: 20px;
+  }
+  h2 {
+    margin-inline-start: 35px;
+    padding-block-start: 18px;
+    padding-block-end: 5px;
+  }
+  h3 {
+    margin-inline-start: 35px;
+    padding-block-start: 10px;
+  }
+  p {
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
+  } 
+  
+  img {
+    inline-size: 250px;
+    block-size: 250px;
+    float: inline-end;
+  }
+  ul {
+    margin-inline-start: 25px;
+  }
+  h5 {
+    margin-inline-start: 35px;
+  }
+ .btn-group {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-block-start: 15px;
+   margin-block-end: 15px;
+   inline-size: 50%;
+   float: inline-end;
+   
+ }
+ .content-container {
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
+    margin-block-end: 30px;
+    inline-size: 50%;
+    float: inline-end;
+ }
+
+ .card1 {
+  inline-size: 550px;
+  block-size: 80%;
+  margin-block-start: 40px;
+  float: inline-end;
+ }
+ .card1:hover {
+  box-shadow: 10px 10px 10px 10px rgba(23, 103, 51, 0.5);
+ }
+ .card1-text {
+  color: #995e5e;
+ }
+ .card1-img {
+  inline-size: 550px;
+  block-size: 380px;
+ }
+ .card1 li {
+  margin-block-end: 7px;
+  margin-inline-start: 30px;
+ }
+
+ .container {
+  display: flex;
+  align-items: flex-start;
+  margin-block-start: 20px;
+  inline-size: 100vw;
+}
+
+.btn-group-vertical {
+  margin-inline-end: 20px;
+  flex: 0 0 200px;
+}
+
+.content-display {
+  flex: 1;
+  border: 1px solid #b52020;
+  padding: 10px;
+  min-block-size: 100px;
+  margin-block-end: 20px;
+}
+
+.content-item {
+  display: none;
+}
+
+.content-item.active {
+  display: block;
+}
+.card3 li {
+  margin-right: 20px;
+}
+
+
+
+
+
+
