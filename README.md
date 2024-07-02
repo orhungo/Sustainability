@@ -1,6 +1,6 @@
 Bu proje, Hi-Kod frontend atölyesi kapsamında hazırlanmıştır.
 ## Proje Hakkında:
-Bu web sitesi, sürdürülebilirlik alt boyutu olan sosyal sürdürülebilirlik konusuna odaklanmıştır. Proje, HTML, CSS, JavaScript ve Bootstrap kütüphaneleri kullanılarak geliştirilmiştir. 
+Bu web sitesi, sürdürülebilirliğin alt boyutu olan sosyal sürdürülebilirlik konusuna odaklanmıştır. Proje, HTML, CSS, JavaScript ve Bootstrap kullanılarak geliştirilmiştir. 
 #### Anasayfa
 ![sustainability1](https://github.com/orhungo/Sustainability/assets/117112277/dc1aab3e-c5ba-4e4b-abc2-25a56a74cf03)
 #### -------------------------------------------------------
